@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm DeJay</h1>
 <h3 align="center">A non-binary computer person</h3>
+
 - 🔭 I'm currently working on [Speedboat](https://github.com/sethbots/speedboat)
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/dejaydev)
