@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm DeJay</h1>
 <h3 align="center">A non-binary computer person</h3>
+<h5 align="center"><i>(Get it?)</i></h3>
 
-- 🔭 I'm currently working on [Speedboat](https://github.com/sethbots/speedboat)
+- 🔭 I'm currently working on [Speedboat](https://github.com/dejaydev/speedboat)
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/dejaydev)
-
-- 📝 Sometimes, I'll write about my life [on my blog](https://blog.dejay.dev)
 
 - 📝 [I've also got a website!](https://dejay.dev)
 
