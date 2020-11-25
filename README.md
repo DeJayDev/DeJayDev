@@ -2,7 +2,7 @@
 <h3 align="center">A non-binary computer person</h3>
 <h5 align="center"><i>(Get it?)</i></h3>
 
-- 🔭 Among others, check out [Speedboat](https://github.com/dejaydev/speedboat)
+- 🔭 Among other things, I maintain [Speedboat](https://github.com/dejaydev/speedboat)
 
 - 👨‍💻 Want to check out my GitHub? Visit [here.](https://github.com/dejaydev)
 
