@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/194861788926443520)](https://djs.place)
+[![Discord Presence](https://lanyard.cnrad.dev/api/194861788926443520?hideStatus=true)](https://djs.place)
 [![discord:chat](https://img.shields.io/discord/449576301997588490)](https://djs.place)
 
 # 👋🏽 Hi, I'm Dj
