@@ -1,21 +1,19 @@
-<h1 align="center">Hi, I'm Dj</h1>
-<h3 align="center">A non-binary computer person</h3>
-<h5 align="center"><i>(Get it?)</i></h3>
+[![Discord Presence](https://lanyard.cnrad.dev/api/194861788926443520)](https://djs.place)
+[![discord:chat](https://img.shields.io/discord/449576301997588490)](https://djs.place)
 
-- 🔭 Among other things, I maintain [Speedboat](https://github.com/dejaydev/speedboat)
+# 👋🏽 Hi, I'm Dj
 
-- 👨‍💻 Want to check out my GitHub? Visit [here.](https://github.com/dejaydev)
+a 20 year old full stack engineer and project manager currently based in Texas. When I'm not working on something away or managing a project, you can find me planning my next adventure, pressing keys on the piano, or with my favorite people. 
 
-- 📝 [I also have a website](https://dejay.dev)
 
-- 📫 Add me on Discord with **DeJay#1337**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dejaydev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dejaydev" height="30" width="40" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash%2Ccloudflare%2Ccss%2Cdiscord%2Cbots%2Cdocker%2Cgithub%2Chtml%2Cidea%2Cjava%2Cjs%2Cmysql%2Cnodejs%2Cpostgres%2Cpowershell%2Cprisma%2Cpy%2Craspberrypi%2Creact%2Cregex%2Csupabase%2Ctwitter%2Cts%2Cvite%2Cvscode%2Cworkers&perline=17&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash%2Ccloudflare%2Ccss%2Cdiscord%2Cbots%2Cdocker%2Cgithub%2Chtml%2Cidea%2Cjava%2Cjs%2Cmysql%2Cnodejs%2Cpostgres%2Cpowershell%2Cprisma%2Cpy%2Craspberrypi%2Creact%2Cregex%2Csupabase%2Ctwitter%2Cts%2Cvite%2Cvscode%2Cworkers&perline=17&theme=light">
+    <img alt="Skill icons">
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dejaydev&show_icons=true&locale=en&layout=compact" alt="dejaydev" /></p>
+> Thank you to [skillicons.dev](https://skillicons.dev) for the icons!
+> Another thank you to the [Lanyard project](https://github.com/Phineas/lanyard) and [cnrad](https://github.com/cnrad/lanyard-profile-readme) for the Discord widget!
+> Another thank you to [Promise](https://github.com/promise/promise/) for letting me use his README as a template!
