@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/194861788926443520?hideStatus=true)](https://djs.place)
-
 # 👋🏽 Hi, I'm Dj
 
 a 20 year old full stack engineer and project manager currently based in Texas. When I'm not working on something away or managing a project, you can find me planning my next adventure, pressing keys on the piano, or with my favorite people. 
@@ -15,6 +13,4 @@ Some stuff I use, in no particular order:
 
 > Icons powered by [skillicons.dev](https://skillicons.dev)
 
-> Thank you to the [Lanyard project](https://github.com/Phineas/lanyard) and [cnrad](https://github.com/cnrad/lanyard-profile-readme) for the Discord widget!
-
-> Another thank you to [Promise](https://github.com/promise/promise/) for letting me use his README as inspiration :heart:
+> Thank you to [Promise](https://github.com/promise/promise/) for letting me use his README as inspiration :heart:
