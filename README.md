@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Dj
 
-a 20 year old full stack engineer and project manager currently based in Texas. When I'm not working on something away or managing a project, you can find me planning my next adventure, pressing keys on the piano, or with my favorite people. 
+a 20 year old full stack engineer and project manager currently based in Texas. When I'm not working, you can find me planning my next adventure, pressing keys on the piano, or with my favorite people. 
 
 Some stuff I use, in no particular order:
 <p align="center">
