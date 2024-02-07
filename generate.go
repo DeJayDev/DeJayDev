@@ -61,9 +61,9 @@ func main() {
 	err = tmpl.Execute(file, Template{
 		Age:                  calculateAge(),
 		ExperiencedIcons:     experienced,
-		ExperiencedIconCount: math.RoundToEven(float64(experiencedCount)),
+		ExperiencedIconCount: math.RoundToEven(float64(experiencedCount) / 2),
 		HandyIcons:           handy,
-		HandyIconCount:       math.RoundToEven(float64(handyCount)),
+		HandyIconCount:       math.RoundToEven(float64(handyCount) / 2),
 	})
 
 	if err != nil {
