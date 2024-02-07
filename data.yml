@@ -1,0 +1,51 @@
+experienced:
+  langs:
+    - bash
+    - git
+    - githubactions
+    - html
+    - js
+    - py
+    - ts
+    - css
+    - regex
+  libs:
+    - nextjs
+    - react
+  platforms:
+    - cloudflare
+    - discord
+    - github
+    - workers
+    - raspberrypi
+  others:
+    - bots
+    - docker
+    - gradle
+    - postgres
+    - redis
+    - vscode
+
+handy:
+  langs:
+    - java
+    - md
+  libs:
+    - apollo
+    - fastapi
+    - flask
+    - remix
+  platforms:
+    - aws
+    - firebase
+    - gcp
+    - supabase
+    - sentry
+  others:
+    - blender
+    - figma
+    - idea
+    - maven
+    - mongodb
+    - mysql
+    - vite
