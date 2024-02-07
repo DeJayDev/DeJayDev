@@ -7,12 +7,8 @@ When I'm not working, you can find me planning my next adventure, pressing keys 
 Here's some of the things I use often:
 <p align="center">
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://skillicons.dev/icons?i={{ .ExperiencedIcons }}&theme=dark">
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://skillicons.dev/icons?i={{ .ExperiencedIcons }}&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i={{ .ExperiencedIcons }}&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i={{ .ExperiencedIcons }}&theme=light">
     <img alt="Skill Icons from skillicons.dev">
   </picture>
 </p>
@@ -20,12 +16,8 @@ Here's some of the things I use often:
 Here's a few things I use a little less often:
 <p align="center">
   <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://skillicons.dev/icons?i={{ .HandyIcons }}&theme=dark">
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://skillicons.dev/icons?i={{ .HandyIcons }}&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i={{ .HandyIcons }}&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i={{ .HandyIcons }}&theme=light">
     <img alt="Skill Icons from skillicons.dev">
   </picture>
 </p>
