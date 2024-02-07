@@ -7,8 +7,8 @@ When I'm not working, you can find me planning my next adventure, pressing keys 
 Here's some of the things I use often:
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash%2Cbots%2Ccloudflare%2Ccss%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cgradle%2Chtml%2Cjs%2Cnextjs%2Cpostgres%2Cpy%2Craspberrypi%2Creact%2Credis%2Cregex%2Cts%2Cvscode%2Cworkers&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash%2Cbots%2Ccloudflare%2Ccss%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cgradle%2Chtml%2Cjs%2Cnextjs%2Cpostgres%2Cpy%2Craspberrypi%2Creact%2Credis%2Cregex%2Cts%2Cvscode%2Cworkers&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=astro%2Cbash%2Cbots%2Ccloudflare%2Ccss%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cgradle%2Chtml%2Cjs%2Cnextjs%2Cpostgres%2Cpy%2Craspberrypi%2Creact%2Credis%2Cregex%2Cts%2Cvscode%2Cworkers&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=astro%2Cbash%2Cbots%2Ccloudflare%2Ccss%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cgradle%2Chtml%2Cjs%2Cnextjs%2Cpostgres%2Cpy%2Craspberrypi%2Creact%2Credis%2Cregex%2Cts%2Cvscode%2Cworkers&theme=light">
     <img alt="Skill Icons from skillicons.dev">
   </picture>
 </p>
@@ -25,7 +25,7 @@ Here's a few things I use a little less often:
 <details>
 <summary> Credits </summary>
 
-* Icons from [skillicons.dev](https://skillicons.dev)
+* [Icons from skillicons.dev](https://skillicons.dev)
 
-* Thank you [Promise](https://github.com/promise/) for letting me use your README as inspiration :heart:
+* [Promise](https://github.com/promise/) for letting me use your README as inspiration :heart:
 </details>
