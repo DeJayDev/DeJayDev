@@ -30,6 +30,7 @@ handy:
   langs:
     - java
     - md
+    - go # get it?
   libs:
     - apollo
     - fastapi

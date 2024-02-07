@@ -86,31 +86,16 @@ func calculateAge() float64 {
 }
 
 func generateIconsForSection(section ExperienceSection) string {
-	var ExperiencedIcons strings.Builder
+	icons := []string{}
 
-	for _, item := range section.Langs {
-		ExperiencedIcons.WriteString(item)
-		ExperiencedIcons.WriteString(",")
-	}
+	icons = append(icons, section.Langs...)
+	icons = append(icons, section.Libs...)
+	icons = append(icons, section.Platforms...)
+	icons = append(icons, section.Others...)
 
-	for _, item := range section.Libs {
-		ExperiencedIcons.WriteString(item)
-		ExperiencedIcons.WriteString(",")
-	}
+	slices.Sort(icons)
 
-	for _, item := range section.Platforms {
-		ExperiencedIcons.WriteString(item)
-		ExperiencedIcons.WriteString(",")
-	}
-
-	for _, item := range section.Others {
-		ExperiencedIcons.WriteString(item)
-		ExperiencedIcons.WriteString(",")
-	}
-
-	skills := strings.Split(ExperiencedIcons.String(), ",")
-	slices.Sort(skills)
-	result := strings.Join(skills, "%2C")
+	result := strings.Join(icons, "%2C")
 	return result
 
 }
