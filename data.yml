@@ -12,6 +12,7 @@ experienced:
   libs:
     - nextjs
     - react
+    - astro
   platforms:
     - cloudflare
     - discord

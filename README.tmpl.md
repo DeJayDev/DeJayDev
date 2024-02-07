@@ -25,7 +25,7 @@ Here's a few things I use a little less often:
 <details>
 <summary> Credits </summary>
 
-* Icons from [skillicons.dev](https://skillicons.dev)
+* [Icons from skillicons.dev](https://skillicons.dev)
 
-* Thank you [Promise](https://github.com/promise/) for letting me use your README as inspiration :heart:
+* [Promise](https://github.com/promise/) for letting me use your README as inspiration :heart:
 </details>
