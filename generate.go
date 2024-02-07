@@ -108,6 +108,6 @@ func generateIconsForSection(section ExperienceSection) string {
 	}
 
 	result := strings.Trim(ExperiencedIcons.String(), " ")
-	return strings.ReplaceAll(result, " ", "%20")
+	return strings.ReplaceAll(result, " ", "%2C")
 
 }

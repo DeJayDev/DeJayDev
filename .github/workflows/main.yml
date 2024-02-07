@@ -23,6 +23,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update README"
-          commit_user_name: Dj Isaac
-          commit_user_email: contact@dejaydev.com
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
