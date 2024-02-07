@@ -5,7 +5,7 @@ I am a `{{ .Age }}` year old full stack engineer and project manager currently l
 When I'm not working, you can find me planning my next adventure, pressing keys on the piano, or with my favorite people. 
 
 Here's some of the things I use often:
-<p align="center">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i={{ .ExperiencedIcons }}&theme=dark&perline={{ .ExperiencedIconCount }}">
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i={{ .ExperiencedIcons }}&theme=light&perline={{ .ExperiencedIconCount }}">
@@ -14,7 +14,7 @@ Here's some of the things I use often:
 </p>
 
 Here's a few things I use a little less often:
-<p align="center">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i={{ .HandyIcons }}&theme=dark&perline={{ .HandyIconCount }}">
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i={{ .HandyIcons }}&theme=light&perline={{ .HandyIconCount }}">
