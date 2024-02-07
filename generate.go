@@ -25,9 +25,11 @@ type PersonalData struct {
 }
 
 type Template struct {
-	Age              float64
-	ExperiencedIcons string
-	HandyIcons       string
+	Age                  float64
+	ExperiencedIcons     string
+	ExperiencedIconCount float64
+	HandyIcons           string
+	HandyIconCount       float64
 }
 
 func main() {
@@ -53,10 +55,15 @@ func main() {
 		log.Fatal("Failed to load template")
 	}
 
+	experienced, experiencedCount := generateIconsForSection(*personalData.Experienced)
+	handy, handyCount := generateIconsForSection(*personalData.Handy)
+
 	err = tmpl.Execute(file, Template{
-		Age:              calculateAge(),
-		ExperiencedIcons: generateIconsForSection(*personalData.Experienced),
-		HandyIcons:       generateIconsForSection(*personalData.Handy),
+		Age:                  calculateAge(),
+		ExperiencedIcons:     experienced,
+		ExperiencedIconCount: math.RoundToEven(float64(experiencedCount)),
+		HandyIcons:           handy,
+		HandyIconCount:       math.RoundToEven(float64(handyCount)),
 	})
 
 	if err != nil {
@@ -85,7 +92,7 @@ func calculateAge() float64 {
 	return age
 }
 
-func generateIconsForSection(section ExperienceSection) string {
+func generateIconsForSection(section ExperienceSection) (string, int) {
 	icons := []string{}
 
 	icons = append(icons, section.Langs...)
@@ -96,6 +103,6 @@ func generateIconsForSection(section ExperienceSection) string {
 	slices.Sort(icons)
 
 	result := strings.Join(icons, "%2C")
-	return result
+	return result, len(icons)
 
 }
