@@ -7,8 +7,8 @@ When I'm not working, you can find me planning my next adventure, pressing keys 
 Here's some of the things I use often:
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=astro%2Cbash%2Cbots%2Ccloudflare%2Ccss%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cgradle%2Chtml%2Cjs%2Cnextjs%2Cpostgres%2Cpy%2Craspberrypi%2Creact%2Credis%2Cregex%2Cts%2Cvscode%2Cworkers&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=astro%2Cbash%2Cbots%2Ccloudflare%2Ccss%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cgradle%2Chtml%2Cjs%2Cnextjs%2Cpostgres%2Cpy%2Craspberrypi%2Creact%2Credis%2Cregex%2Cts%2Cvscode%2Cworkers&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=astro%2Cbash%2Cbots%2Ccloudflare%2Ccss%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cgradle%2Chtml%2Cjs%2Cnextjs%2Cpostgres%2Cpy%2Craspberrypi%2Creact%2Credis%2Cregex%2Cts%2Cvscode%2Cworkers&theme=dark&perline=23">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=astro%2Cbash%2Cbots%2Ccloudflare%2Ccss%2Cdiscord%2Cdocker%2Cgit%2Cgithub%2Cgithubactions%2Cgradle%2Chtml%2Cjs%2Cnextjs%2Cpostgres%2Cpy%2Craspberrypi%2Creact%2Credis%2Cregex%2Cts%2Cvscode%2Cworkers&theme=light&perline=23">
     <img alt="Skill Icons from skillicons.dev">
   </picture>
 </p>
@@ -16,8 +16,8 @@ Here's some of the things I use often:
 Here's a few things I use a little less often:
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=apollo%2Caws%2Cblender%2Cfastapi%2Cfigma%2Cfirebase%2Cflask%2Cgcp%2Cgo%2Cidea%2Cjava%2Cmaven%2Cmd%2Cmongodb%2Cmysql%2Cremix%2Csentry%2Csupabase%2Cvite&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=apollo%2Caws%2Cblender%2Cfastapi%2Cfigma%2Cfirebase%2Cflask%2Cgcp%2Cgo%2Cidea%2Cjava%2Cmaven%2Cmd%2Cmongodb%2Cmysql%2Cremix%2Csentry%2Csupabase%2Cvite&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=apollo%2Caws%2Cblender%2Cfastapi%2Cfigma%2Cfirebase%2Cflask%2Cgcp%2Cgo%2Cidea%2Cjava%2Cmaven%2Cmd%2Cmongodb%2Cmysql%2Cremix%2Csentry%2Csupabase%2Cvite&theme=dark&perline=19">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=apollo%2Caws%2Cblender%2Cfastapi%2Cfigma%2Cfirebase%2Cflask%2Cgcp%2Cgo%2Cidea%2Cjava%2Cmaven%2Cmd%2Cmongodb%2Cmysql%2Cremix%2Csentry%2Csupabase%2Cvite&theme=light&perline=19">
     <img alt="Skill Icons from skillicons.dev">
   </picture>
 </p>
