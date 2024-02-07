@@ -4,6 +4,7 @@ import (
 	"log"
 	"math"
 	"os"
+	"slices"
 	"strings"
 	"text/template"
 	"time"
@@ -89,25 +90,27 @@ func generateIconsForSection(section ExperienceSection) string {
 
 	for _, item := range section.Langs {
 		ExperiencedIcons.WriteString(item)
-		ExperiencedIcons.WriteString(" ")
+		ExperiencedIcons.WriteString(",")
 	}
 
 	for _, item := range section.Libs {
 		ExperiencedIcons.WriteString(item)
-		ExperiencedIcons.WriteString(" ")
+		ExperiencedIcons.WriteString(",")
 	}
 
 	for _, item := range section.Platforms {
 		ExperiencedIcons.WriteString(item)
-		ExperiencedIcons.WriteString(" ")
+		ExperiencedIcons.WriteString(",")
 	}
 
 	for _, item := range section.Others {
 		ExperiencedIcons.WriteString(item)
-		ExperiencedIcons.WriteString(" ")
+		ExperiencedIcons.WriteString(",")
 	}
 
-	result := strings.Trim(ExperiencedIcons.String(), " ")
-	return strings.ReplaceAll(result, " ", "%2C")
+	skills := strings.Split(ExperiencedIcons.String(), ",")
+	slices.Sort(skills)
+	result := strings.Join(skills, "%2C")
+	return result
 
 }
