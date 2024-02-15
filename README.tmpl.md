@@ -27,5 +27,5 @@ Here's a few things I use a little less often:
 
 * [Icons from skillicons.dev](https://skillicons.dev)
 
-* [Promise](https://github.com/promise/) for letting me use your README as inspiration :heart:
+* [@promise](https://github.com/promise/) for letting me use your README as inspiration :heart:
 </details>
