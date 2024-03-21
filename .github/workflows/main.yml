@@ -2,7 +2,7 @@ name: Regenerate README
 
 on:
   schedule:
-    - cron: '27 04 * * 1'
+    - cron: '27 04 * * 1,3,5'
   push:
     branches: [ "main" ]
   workflow_dispatch:
