@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Dj
 
-I am a `22.248` year old full stack engineer and project manager currently living in Houston, Texas. 
+I am a `22.256` year old full stack engineer and project manager currently living in Houston, Texas. 
 
 When I'm not working, you can find me planning my next adventure, pressing keys on the piano, or with my favorite people. 
 
