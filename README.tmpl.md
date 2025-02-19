@@ -1,10 +1,12 @@
 # 👋🏽 Hi, I'm Dj
 
-I am a `{{ .Age }}` year old full stack engineer and project manager currently living in Houston, Texas. 
+I am a `{{ .Age }}` year old full stack engineer from Houston, Texas. 
 
-When I'm not working, you can find me planning my next adventure, pressing keys on the piano, or with my favorite people. 
+I am also [RunPod's](https://runpod.io?utm_source=github&utm_campaign=djwashere) Technical Community Manager!
 
-Here's some of the things I use often:
+When I'm not working, I enjoy travel, photography, singing songs, and spending time with my favorite people. 
+
+I use these often:
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i={{ .ExperiencedIcons }}&theme=dark&perline={{ .ExperiencedIconCount }}">
@@ -13,7 +15,7 @@ Here's some of the things I use often:
   </picture>
 </p>
 
-Here's a few things I use a little less often:
+I use these a little less often:
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i={{ .HandyIcons }}&theme=dark&perline={{ .HandyIconCount }}">
@@ -23,9 +25,11 @@ Here's a few things I use a little less often:
 </p>
 
 <details>
-<summary> Credits </summary>
+<summary> Thank Yous / Credits </summary>
 
-* [Icons from skillicons.dev](https://skillicons.dev)
+* Icons from [skillicons.dev](https://skillicons.dev)
 
 * [@promise](https://github.com/promise/) for letting me use your README as inspiration :heart:
+
+* You, for reading this
 </details>
