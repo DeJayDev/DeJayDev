@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Dj
 
-I am a `22.927` year old full stack engineer from Houston, Texas. 
+I am a `22.946` year old full stack engineer from Houston, Texas. 
 
 I am also [RunPod's](https://runpod.io?utm_source=github&utm_campaign=djwashere) Technical Community Manager!
 
