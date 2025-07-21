@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Dj
 
-I am a `23.291` year old Software Engineer from Houston, Texas. 
+I am a `23.31` year old Software Engineer from Houston, Texas. 
 
 I am also a (the!) Community Engineer at [RunPod](https://runpod.io?utm_source=github&utm_campaign=djwashere)!
 
