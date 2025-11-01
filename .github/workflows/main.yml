@@ -21,7 +21,7 @@ jobs:
         run: go run generate.go
 
       - name: Replace README.md
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "Update README"
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
