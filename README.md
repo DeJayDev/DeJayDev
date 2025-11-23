@@ -1,10 +1,10 @@
 # 👋🏽 Hi, I'm Dj
 
-I am a `23.653` year old Software Engineer from Houston, Texas. 
+I am a `23.653` year old Software Engineer and Community Manager from Chicago, Illinois. 
 
-I am also a (the!) Community Engineer at [RunPod](https://runpod.io?utm_source=github&utm_campaign=djwashere)!
+Currently I am a (the!) Community Engineer at [Runpod](https://runpod.io?utm_source=github&utm_campaign=djwashere)!
 
-When I'm not working, I enjoy travel, photography, singing songs, and spending time with my favorite people. 
+When I'm not working I enjoy traveling, taking photos, singing songs, and spending time with my favorite people. 
 
 I use these often:
 <p>
@@ -25,11 +25,11 @@ I use these a little less often:
 </p>
 
 <details>
-<summary> Thank Yous / Credits </summary>
+<summary> Acknowledgements </summary>
 
-* Icons from [skillicons.dev](https://skillicons.dev)
+* My friend [@tandpfun](https://github.com/tandpfun/) for operating [skillicons.dev](https://skillicons.dev)
 
-* [@promise](https://github.com/promise/) for letting me use your README as inspiration :heart:
+* Thank you [@promise](https://github.com/promise/) for letting me use your README as inspiration :heart:
 
 * You, for reading this
 </details>
