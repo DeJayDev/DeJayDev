@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Dj
 
-I am a `23.653` year old Software Engineer and Community Manager from Chicago, Illinois. 
+I am a `23.655` year old Software Engineer and Community Manager from Chicago, Illinois. 
 
 Currently I am a (the!) Community Engineer at [Runpod](https://runpod.io?utm_source=github&utm_campaign=djwashere)!
 
