@@ -1,8 +1,8 @@
 # 👋🏽 Hi, I'm Dj
 
-I am a `23.957` year old Software Engineer and Community Manager from Chicago, Illinois. 
+I am a `24.017` year old Software Engineer and Community Manager from San Francisco, California. 
 
-Currently I am a (the!) Community Engineer at [Runpod](https://runpod.io?utm_source=github&utm_campaign=djwashere)!
+Currently I am a (the!) Forward Deployed Engineer at [Greptile](https://greptile.com?utm_source=github&utm_campaign=djwashere)!
 
 When I'm not working I enjoy traveling, taking photos, singing songs, and spending time with my favorite people. 
 
