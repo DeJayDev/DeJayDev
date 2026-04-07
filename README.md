@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Dj
 
-I am a `24.017` year old Software Engineer and Community Manager from San Francisco, California. 
+I am a `24.022` year old Software Engineer and Community Manager from San Francisco, California. 
 
 Currently I am a (the!) Forward Deployed Engineer at [Greptile](https://greptile.com?utm_source=github&utm_campaign=djwashere)!
 
